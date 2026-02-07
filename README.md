@@ -13,10 +13,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&left=true&vCenter=true&width=600&lines=Full-stack+TypeScript+Developer;Performance+%26+Scalable+Architecture;Production+experience+2.5%2B+years"/>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abuZhuma&show_icons=true&theme=tokyonight&hide_title=true"/>
-</p>
-
 ### 🛠 Tech
 
 <p>
