@@ -1,4 +1,4 @@
-<h1 align="left">Абдырахман Джумагулов</h1>
+<h1 align="left">Abdyrakhman Dzhumagulov</h1>
 <h3 align="left">Full-stack Developer</h3>
 
 <p align="left">
