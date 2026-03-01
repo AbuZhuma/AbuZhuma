@@ -10,7 +10,7 @@
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&left=true&vCenter=true&width=600&lines=Full-stack+TypeScript+Developer;Performance+%26+Scalable+Architecture;Production+experience+2.5%2B+years"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&left=true&vCenter=true&width=600&lines=Full-stack+TypeScript+Developer;Performance+%26+Scalable+Architecture;Production+experience+3%2B+years"/>
 </p>
 
 ### 🛠 Tech
